@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">TryHttpHelper</string>
+    <string name="url_string">Enter the url:</string>
+    <string name="default_url">http://</string>
+    <string name="request">click me to sent get!</string>
+    <string name="post_title">Sent post, enter the title:</string>
+    <string name="input">My pretty Jeans</string>
+    <string name="post_btn">click me to sent post!</string>
+</resources>
